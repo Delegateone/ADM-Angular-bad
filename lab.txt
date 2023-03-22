@@ -9,3 +9,6 @@ List of Software
 7. npm install -g @angular/cli (enter this command in command line )
 8. npm install -g nodemon (enter this command in command line)
 
+
+
+
